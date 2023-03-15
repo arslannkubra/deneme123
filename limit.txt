@@ -1,0 +1,3 @@
+limit dersi 1
+limit dersi 2
+limit dersi 3
